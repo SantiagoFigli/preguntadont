@@ -11,21 +11,25 @@ Pruebas Unitarias: Ejecuta ng test para ejecutar las pruebas unitarias a través
 Pruebas de Extremo a Extremo: Ejecuta ng e2e para ejecutar las pruebas de extremo a extremo mediante una plataforma de tu elección. Para usar este comando, primero debes agregar un paquete que implemente capacidades de pruebas de extremo a extremo. 🕵️‍♂️
 🚀 Comenzando
 Clona el repositorio:
-.
+
+bash
+Copiar código
 git clone https://github.com/tu-usuario/preguntadont.git
 cd preguntadont
 Instala las dependencias:
-.
+
+bash
+Copiar código
 npm install
 Inicia el servidor de desarrollo:
-.
+
+bash
+Copiar código
 ng serve
 Luego, abre tu navegador y ve a http://localhost:4200/. 🎉
-.
+
 📚 Más Ayuda
 Para obtener más ayuda sobre Angular CLI, usa ng help o visita la Página de Descripción General y Referencia de Comandos de Angular CLI. 📖
-
-¡Espero que esta versión te guste! Si necesitas algún ajuste adicional, no dudes en decírmelo. 😄
 
 # PreguntaDont
 
