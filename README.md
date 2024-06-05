@@ -10,15 +10,15 @@ Construcción: Ejecuta ng build para construir el proyecto. Los artefactos de co
 Pruebas Unitarias: Ejecuta ng test para ejecutar las pruebas unitarias a través de Karma. 🧪 
 Pruebas de Extremo a Extremo: Ejecuta ng e2e para ejecutar las pruebas de extremo a extremo mediante una plataforma de tu elección. Para usar este comando, primero debes agregar un paquete que implemente capacidades de pruebas de extremo a extremo. 🕵️‍♂️ 
 🚀 Comenzando
-Clona el repositorio: git clone https://github.com/tu-usuario/preguntadont.git
+Clona el repositorio: *git clone https://github.com/tu-usuario/preguntadont.git*
 
 bash : cd preguntadont 
 
 Instala las dependencias: 
-bash : npm install
+bash : *npm install*
 
 Inicia el servidor de desarrollo: 
-bash  ng serve
+bash : *ng serve*
 
 
 Luego, abre tu navegador y ve a http://localhost:4200/. 🎉
