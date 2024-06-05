@@ -5,7 +5,9 @@ Desarrollada utilizando Angular y TypeScript. 🚀
 
 🌟 Características Principales
 Desarrollo Rápido: Usa ng serve para iniciar un servidor de desarrollo. Navega a http://localhost:4200/. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente. 🔄 
+
 Generación de Código: Ejecuta ng generate component component-name para generar un nuevo componente. También puedes usar ng generate directive|pipe|service|class|guard|interface|enum|module. 🔧 
+
 Construcción: Ejecuta ng build para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio dist/. 🏗️ 
 
 Pruebas Unitarias: Ejecuta ng test para ejecutar las pruebas unitarias a través de Karma. 🧪 
