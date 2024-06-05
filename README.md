@@ -1,5 +1,8 @@
 🎉 PreguntaDont: ¡El Quiz de Preguntas con Estilo! 🎉 
-¡Bienvenido a PreguntaDont! 🎮✨ Esta aplicación es una mejora del famoso juego "Preguntados", pero realizado con nuestro propio estilo único. Desafía tus conocimientos, reta a tus amigos y diviértete mientras aprendes. 📚🤓 
+
+¡Bienvenido a PreguntaDont! 🎮✨ 
+
+Esta aplicación es una mejora del famoso juego "Preguntados", pero realizado con nuestro propio estilo único. Desafía tus conocimientos, reta a tus amigos y diviértete mientras aprendes. 📚🤓 
 
 Desarrollada utilizando Angular y TypeScript. 🚀 
 
