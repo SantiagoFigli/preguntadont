@@ -1,31 +1,26 @@
-🎉 PreguntaDont: ¡El Quiz de Preguntas con Estilo! 🎉
-¡Bienvenido a PreguntaDont! 🎮✨ Esta aplicación es una mejora del famoso juego "Preguntados", pero realizado con nuestro propio estilo único. Desafía tus conocimientos, reta a tus amigos y diviértete mientras aprendes. 📚🤓
+🎉 PreguntaDont: ¡El Quiz de Preguntas con Estilo! 🎉 
+¡Bienvenido a PreguntaDont! 🎮✨ Esta aplicación es una mejora del famoso juego "Preguntados", pero realizado con nuestro propio estilo único. Desafía tus conocimientos, reta a tus amigos y diviértete mientras aprendes. 📚🤓 
 
-Desarrollada utilizando Angular y TypeScript. 🚀
+Desarrollada utilizando Angular y TypeScript. 🚀 
 
 🌟 Características Principales
-Desarrollo Rápido: Usa ng serve para iniciar un servidor de desarrollo. Navega a http://localhost:4200/. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente. 🔄
-Generación de Código: Ejecuta ng generate component component-name para generar un nuevo componente. También puedes usar ng generate directive|pipe|service|class|guard|interface|enum|module. 🔧
-Construcción: Ejecuta ng build para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio dist/. 🏗️
-Pruebas Unitarias: Ejecuta ng test para ejecutar las pruebas unitarias a través de Karma. 🧪
-Pruebas de Extremo a Extremo: Ejecuta ng e2e para ejecutar las pruebas de extremo a extremo mediante una plataforma de tu elección. Para usar este comando, primero debes agregar un paquete que implemente capacidades de pruebas de extremo a extremo. 🕵️‍♂️
+Desarrollo Rápido: Usa ng serve para iniciar un servidor de desarrollo. Navega a http://localhost:4200/. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente. 🔄 
+Generación de Código: Ejecuta ng generate component component-name para generar un nuevo componente. También puedes usar ng generate directive|pipe|service|class|guard|interface|enum|module. 🔧 
+Construcción: Ejecuta ng build para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio dist/. 🏗️ 
+Pruebas Unitarias: Ejecuta ng test para ejecutar las pruebas unitarias a través de Karma. 🧪 
+Pruebas de Extremo a Extremo: Ejecuta ng e2e para ejecutar las pruebas de extremo a extremo mediante una plataforma de tu elección. Para usar este comando, primero debes agregar un paquete que implemente capacidades de pruebas de extremo a extremo. 🕵️‍♂️ 
 🚀 Comenzando
-Clona el repositorio:
+Clona el repositorio: git clone https://github.com/tu-usuario/preguntadont.git
 
-bash
-Copiar código
-git clone https://github.com/tu-usuario/preguntadont.git
-cd preguntadont
-Instala las dependencias:
+bash : cd preguntadont 
 
-bash
-Copiar código
-npm install
-Inicia el servidor de desarrollo:
+Instala las dependencias: 
+bash : npm install
 
-bash
-Copiar código
-ng serve
+Inicia el servidor de desarrollo: 
+bash  ng serve
+
+
 Luego, abre tu navegador y ve a http://localhost:4200/. 🎉
 
 📚 Más Ayuda
